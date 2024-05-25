@@ -1,5 +1,5 @@
 12# vue-i18n-next
-
+1
 > This is the repository for Vue I18n 9 for Vue 3
 
 Internationalization plugin for Vue.js
