@@ -1,4 +1,4 @@
-11211fhg2# vue-i18n-next
+112112fhg2# vue-i18n-next
 1
 > This is t22he repository for Vue I18n 9 for Vue 3
 
