@@ -1,4 +1,4 @@
-/** @type {import("prettier").Config} */
+### Chasn/** @type {import("prettier").Config} */
 export default {
   semi: false,
   singleQuote: true,
